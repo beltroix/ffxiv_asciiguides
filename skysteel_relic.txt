@@ -50,22 +50,24 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 
 === 3. Material Name Listing === 
 
-|| Job                                                           || Culinarian           || Alchemist       || Weaver             || Leatherworker      ||
-==========================================================================================================================================================
-|| Base Item A (Oddly Specific ...)                              || ... Seeds             | ... Quartz       | ... Cotton          | ... Skin            |
-|| Base Item B (Oddly Specific ...)                              || ... Aloe              | ... Sap          | ... Fleece          | ... Gagana Skin     |
-|| Base Item C (Oddly Delicate ...)                              || ... Hammerhead Shark  | ... Mistletoe    | ... Rhea            | ... Gazelle Hide    |
-|| Some Item A                                                   || Highland Spring Water | Vampire Vine Sap | Pixie Floss Boll    | Atrociraptor Skin   |
-|| Some Item B                                                   || Night Vinegar         | Refined Natron   | Ovim Wool           | Zonure Leather      |
-|| Some Item C                                                   || Frantoio              | Vampire Cup Vine | Dwarven Cotton Boll | Yellow Alumen       |
-|| Some Item D                                                   || Night Vinegar         | Refined Natron   | Dwarven Cotton      | Sea Swallow Leather |
-|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || ... Spring Water      | ... Spring Water | ... Cocoon          | ... Log             |
-|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || ... Ice Stalagmite    | ... Raspberry    | ... Ice Stalagmite  | ... Caiman          |
-|| Element A                                                     || Fire                  | Water            | Lightning           | Earth               |
-|| Element B                                                     || Water                 | Lightning        | Wind                | Wind                |
-==========================================================================================================================================================
+===================================================================================================================================================================
+|| Job                                                           || Culinarian            || Alchemist             || Weaver              || Leatherworker       ||
+===================================================================================================================================================================
+|| Base Item A (Oddly Specific ...)                              || ... Seeds              | ... Quartz             | ... Cotton           | ... Skin             |
+|| Base Item B (Oddly Specific ...)                              || ... Aloe               | ... Sap                | ... Fleece           | ... Gagana Skin      |
+|| Base Item C (Oddly Delicate ...)                              || ... Hammerhead Shark   | ... Mistletoe          | ... Rhea             | ... Gazelle Hide     |
+|| Some Item A                                                   || Highland Spring Water  | Vampire Vine Sap       | Pixie Floss Boll     | Atrociraptor Skin    |
+|| Some Item B                                                   || Night Vinegar          | Refined Natron         | Ovim Wool            | Zonure Leather       |
+|| Some Item C                                                   || Frantoio               | Vampire Cup Vine       | Dwarven Cotton Boll  | Yellow Alumen        |
+|| Some Item D                                                   || Night Vinegar          | Refined Natron         | Dwarven Cotton       | Sea Swallow Leather  |
+|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || ... Spring Water       | ... Spring Water       | ... Cocoon           | ... Log              |
+|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || ... Ice Stalagmite     | ... Raspberry          | ... Ice Stalagmite   | ... Caiman           |
+|| Element A                                                     || Fire                   | Water                  | Lightning            | Earth                |
+|| Element B                                                     || Water                  | Lightning              | Wind                 | Wind                 |
+===================================================================================================================================================================
 
-|| Job                                                           || Goldsmith             || Armorer               || Blacksmith           || Carpenter          ||
+===================================================================================================================================================================
+|| Job                                                           || Goldsmith              | Armorer                | Blacksmith            | Carpenter           |
 ===================================================================================================================================================================
 || Base Item A (Oddly Specific ...)                              || ... Uncut Gemstone     | ... Iron Sand          | ... Iron Sand         | ... Petrified Log   |
 || Base Item B (Oddly Specific ...)                              || ... Silver Ore         | ... Coerthan Iron Ore  | ... Coerthan Iron Ore | ... Cedar Log       |
