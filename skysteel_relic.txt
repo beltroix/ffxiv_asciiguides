@@ -23,10 +23,10 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 * 300x Approved Item A
 * 300x Approved Item B
 
-* 623x Fire Crystal
-* 623x Water Crystal
-* 180x Fire Cluster
-* 180x Water Cluster
+* 623x Element A Crystal
+* 623x Element B Crystal
+* 180x Element A Cluster
+* 180x Element B Cluster
 
 === 2. Step by Step Guide: ===
 
@@ -50,31 +50,33 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 
 === 3. Material Name Listing === 
 
-|| Job                                                           || Culinarian           || Alchemist || Weaver             || Leatherworker ||
-===============================================================================================================================================
-|| Base Item A (Oddly Specific ...)                              || Seeds                 |            | ... Cotton          |                |
-|| Base Item B (Oddly Specific ...)                              || Aloe                  |            | ... Fleece          |                |
-|| Base Item C (Oddly Delicate ...)                              || Hammerhead Shark      |            | ... Rhea            |                |
-|| Some Item A                                                   || Highland Spring Water |            | Pixie Floss Boll    |                |
-|| Some Item B                                                   || Night Vinegar         |            | Ovim Wool           |                |
-|| Some Item C                                                   || Frantoio              |            | Dwarven Cotton Boll |                |
-|| Some Item D                                                   || Night Vinegar         |            | Dwarven Cotton      |                |
-|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || Spring Water          |            | ... Cocoon          |                |
-|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || Ice Stalagmite        |            | ... Ice Stalagmite  |                |
-===============================================================================================================================================
+|| Job                                                           || Culinarian           || Alchemist       || Weaver             || Leatherworker      ||
+==========================================================================================================================================================
+|| Base Item A (Oddly Specific ...)                              || ... Seeds             | ... Quartz       | ... Cotton          | ... Skin            |
+|| Base Item B (Oddly Specific ...)                              || ... Aloe              | ... Sap          | ... Fleece          | ... Gagana Skin     |
+|| Base Item C (Oddly Delicate ...)                              || ... Hammerhead Shark  | ... Mistletoe    | ... Rhea            | ... Gazelle Hide    |
+|| Some Item A                                                   || Highland Spring Water | Vampire Vine Sap | Pixie Floss Boll    | Atrociraptor Skin   |
+|| Some Item B                                                   || Night Vinegar         | Refined Natron   | Ovim Wool           | Zonure Leather      |
+|| Some Item C                                                   || Frantoio              | Vampire Cup Vine | Dwarven Cotton Boll | Yellow Alumen       |
+|| Some Item D                                                   || Night Vinegar         | Refined Natron   | Dwarven Cotton      | Sea Swallow Leather |
+|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || ... Spring Water      | ... Spring Water | ... Cocoon          | ... Log             |
+|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || ... Ice Stalagmite    | ... Raspberry    | ... Ice Stalagmite  | ... Caiman          |
+|| Element A                                                     || Fire                  | Water            | Lightning           | Earth               |
+|| Element B                                                     || Water                 | Lightning        | Wind                | Wind                |
+==========================================================================================================================================================
 
-|| Job                                                           || Goldsmith             || Armorer || Blacksmith           || Carpenter          ||
-=====================================================================================================================================================
-|| Base Item A (Oddly Specific ...)                              || ... Uncut Gemstone     |          | ... Iron Sand         | ... Petrified Log   |
-|| Base Item B (Oddly Specific ...)                              || ... Silver Ore         |          | ... Coerthan Iron Ore | ... Cedar Log       |
-|| Base Item C (Oddly Delicate ...)                              || ... Raw Celestine      |          | ... Silvergrace Ore   | ... Pine Log        |
-|| Some Item A                                                   || Manasilver Sand        |          | Manasilver Sand       | White Ash Log       |
-|| Some Item B                                                   || Tuff Whetstone         |          | Titanbronze Ingot     | Sandteak Lumber     |
-|| Some Item C                                                   || Dimythrite Sand        |          | Dimythrite Ore        | Lignum Vitae Log    |
-|| Some Item D                                                   || Dwarven Mythril Nugget |          | Dwarven Mythril Ingot | Lignum Vitae Lumber |
-|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || ... Silex              |          | ... Cloudstone        | ... Log             |
-|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || ... Barbgrass          |          | ... Silex             | ... Barbgrass       |
-=====================================================================================================================================================
+|| Job                                                           || Goldsmith             || Armorer               || Blacksmith           || Carpenter          ||
+===================================================================================================================================================================
+|| Base Item A (Oddly Specific ...)                              || ... Uncut Gemstone     | ... Iron Sand          | ... Iron Sand         | ... Petrified Log   |
+|| Base Item B (Oddly Specific ...)                              || ... Silver Ore         | ... Coerthan Iron Ore  | ... Coerthan Iron Ore | ... Cedar Log       |
+|| Base Item C (Oddly Delicate ...)                              || ... Raw Celestine      | ... Silvergrace Ore    | ... Silvergrace Ore   | ... Pine Log        |
+|| Some Item A                                                   || Manasilver Sand        | Manasilver Sand        | Manasilver Sand       | White Ash Log       |
+|| Some Item B                                                   || Tuff Whetstone         | Titanbronze Ingot      | Titanbronze Ingot     | Sandteak Lumber     |
+|| Some Item C                                                   || Dimythrite Sand        | Dimythrite Ore         | Dimythrite Ore        | Lignum Vitae Log    |
+|| Some Item D                                                   || Dwarven Mythril Nugget | Dwarven Mythril Ingot  | Dwarven Mythril Ingot | Lignum Vitae Lumber |
+|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || Wind                   | Ice                    | Fire                  | Wind                |
+|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || Fire                   | Earth                  | Earth                 | Ice                 |
+===================================================================================================================================================================
 
 === 4. Macros ===
 
