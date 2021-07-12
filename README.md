@@ -9,7 +9,7 @@
 
 <a name="introduction"></a>
 ## Who am i?
-I'm Myhazael, developer for a big telecommunication company and a huge fan of Final Fantasy XIV. I play FFXIV on Omega@Chaos since the release of Shadowbringers and want to spread some of my little knowledge i acquired in this game due to this repository.
+I'm Myhazael, developer for a big telecommunication company and a huge fan of Final Fantasy XIV. I play FFXIV on Omega@Chaos since the release of Shadowbringers and want to spread some of my little knowledge i acquired in this game via this repository.
 
 <a name="whatcanyoufind"></a>
 ## What can you find here?
