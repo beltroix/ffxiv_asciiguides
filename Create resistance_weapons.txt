@@ -1,0 +1,12 @@
+=====================================================================================
+==== Resistance Weapon Cheat Sheet ======= by: Myhazael (Updated: 12th July 2021)====
+=====================================================================================
+
+= Which Quest will give you what weapon and what is needed for turn in: =
+
+Resistance is (not) futile -> Baseweapon (4x Thavnairian Scalepowder for 1000 Poetics)
+For Want of a Memory -> Augmented First Weapon (20/20/20x Memories from Heavensward FATEs)
+The Will to Resist -> Augmented First Weapon + Glow Effect (6x Memories from Leveling Roulette / Level 60 Dungeons)
+Change of Arms -> Second Weapon (15x Memories from Critical Engagement / Crystal Tower / Castrum Lacus Litore)
+A New Path to Resistance -> Second Weapon + Glow Effect (15x Timeworn Artifact from Palace of the Dead / Delubrum Reginae)
+Irresistible -> Final Weapon + Glow Effect (15x Raw Emotion from Dalriada / Delubrum Reginae / Level 70 Dungeons / Heaven on High)
