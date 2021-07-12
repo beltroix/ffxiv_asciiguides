@@ -11,7 +11,7 @@
 
 === 1. Required Resources: ===
 
-Refer to 3. Material Name Listing to translate these to the Items needed for your Job
+Refer to "3. Material Name Listing" to translate these to the Items needed for your specific job
 
 * 50x Base Item A 
 * 39x Base Item B
@@ -30,8 +30,7 @@ Refer to 3. Material Name Listing to translate these to the Items needed for you
 
 === 2. Step by Step Guide: ===
 
-0a. Buy or Gather Required Resources
-0b. Go to Skysteel Manufactory
+0. Buy or Gather Required Resources
 1. Buy "Skysteel [JobItem]" from Denys@Skysteel Manufactory for 80k Gil
 2. Craft 20 Oddly Specific [Insert Your First Craftable Item Here]
 3. Trade in 20 of those + "Skysteel [JobItem]" => "Skysteel [JobItem] +1" 
