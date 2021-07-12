@@ -1,0 +1,67 @@
+==========================================================================================================================
+==== Gather Scrips and Legendary Node Farming Route Macros (Patch 5.57) ======= by: Myhazael (Updated: 12th July 2021)====
+==========================================================================================================================
+
+= Table of Contents =
+1. Macro for printing a route for White Scrips
+2. Macro for printing a route for Yellow Scrips
+3. Macro for printing a route for Legendary Nodes
+4. Gather Macros for Collectables
+
+=== 1. Macro for printing a route for White Scrips ===
+
+/echo White Scrips
+/echo 08-10 Tempest, Ondo Cups, Onyx (Mine)
+/echo 10-12 Fringes, Peering, Gyr Aba (Mine)
+/echo 12-02 The Peaks, Ala Gannha, Urunday Log (Bota)
+/echo 02-04 Amh Araeng, Twine, Amber Cloves (Bota)
+/echo 04-06 Tempest, Ondo Cups, Coral (Bota)
+
+=== 2. Macro for printing a route for Yellow Scrips ===
+
+/echo Yellow Scrips
+/echo 02–04 Amh Araeng, Twine, Sandteak Log (Bota) 
+/echo 04–06 Tempest, Ondo Cups, Kelp (Bota)
+/echo 06–08 Rak’tika, Slitherbough, Raw Lazurite (Mine)
+/echo 08–10 Tempest, Ondo Cups, Sea Salt (Mine)
+/echo 10–12 Il Mheg, Lydha Lran, Miracle Apple Log (Bota)
+
+=== 3. Macro for printing a route for Legendary Nodes ===
+
+/echo Legendary Nodes
+/echo 02-04 Il Mheg, Wolekdorf, Solstice Stone (Mine)
+/echo 04-06 Kholusia, Tomra, Hard Water - Kholusia (Mine)
+/echo 06-08 Amh Araeng, Twine, Silver Beech Log (Bota)
+/echo 08-10 Rak'tika, Slitherbough, Dolomite (Mine)
+/echo 10-12 Rak'tika, Fanow, Raindrop Cotton Ball (Bota)
+/echo 12-02 Lakeland, Ostall Imp., Wattle Petribark (Bota)
+
+=== 4. Gather Macros for Collectables ===
+
+Requirements:
+* Full Aesthete's Best in Slot - Pentamelded 
+* Relic Gathering Tool >= ilvl500
+
+Can work with any gear with GP > 800, the above gear is just used by me
+
+= Botanist =
+
+/ac "Scour" <wait.3>
+/ac "Ageless Words" <wait.3>
+/ac "Scrutiny" <wait.3>
+/ac "Brazen Woodsman" <wait.3>
+/ac "Ageless Words" <wait.3>
+/ac "Meticulous Woodsman" <wait.3>
+/ac "Meticulous Woodsman" <wait.3>
+/echo Time to collect! <se.14>
+
+= Miner =
+
+/ac "Scour" <wait.3>
+/ac "Solid Reason" <wait.3>
+/ac "Scrutiny" <wait.3>
+/ac "Brazen Prospector" <wait.3>
+/ac "Solid Reason" <wait.3>
+/ac "Meticulous Prospector" <wait.3>
+/ac "Meticulous Prospector" <wait.3>
+/echo Time to collect! <se.14>
