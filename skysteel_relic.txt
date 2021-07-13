@@ -13,6 +13,8 @@
 
 Refer to "3. Material Name Listing" to translate these to the Items needed for your specific job
 
+* 80k Gil for first weapon
+
 * 50x Base Item A 
 * 39x Base Item B
 * 60x Base Item C
@@ -83,7 +85,7 @@ Refer to "3. Material Name Listing" to translate these to the Items needed for y
 
 Requirements:
 * Full Aesthete's Best in Slot - Pentamelded 
-* Relic Weapon of Current Step top craft the items
+* Relic Weapon of Current Step to craft the items
 
 Stats with First Relic Weapon without Buffs:
 xxx Craftsmanship / xxx Control / xxx CP
