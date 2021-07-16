@@ -77,8 +77,10 @@ Refer to "3. Material Name Listing" to translate these to the Items needed for y
 || Some Item B                                                   || Tuff Whetstone         | Titanbronze Ingot      | Titanbronze Ingot     | Sandteak Lumber     |
 || Some Item C                                                   || Dimythrite Sand        | Dimythrite Ore         | Dimythrite Ore        | Lignum Vitae Log    |
 || Some Item D                                                   || Dwarven Mythril Nugget | Dwarven Mythril Ingot  | Dwarven Mythril Ingot | Lignum Vitae Lumber |
-|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || Wind                   | Ice                    | Fire                  | Wind                |
-|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || Fire                   | Earth                  | Earth                 | Ice                 |
+|| Approved Item A (Approved Grade 4 Artisanal Skybuilders' ...) || ... Silex              | ... Cloudstone         | ... Cloudstone        | ... Log             |
+|| Approved Item B (Approved Grade 4 Artisanal Skybuilders' ...) || ... Barbgrass          | ... Prismstone         | ... Silex             | ... Barbgrass       |
+|| Element A                                                     || Wind                   | Ice                    | Fire                  | Wind                |
+|| Element B                                                     || Fire                   | Earth                  | Earth                 | Ice                 |
 ===================================================================================================================================================================
 
 === 4. Macros ===
